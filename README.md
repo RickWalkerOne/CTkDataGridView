@@ -4,7 +4,7 @@ CTkDataGridView is a library based in [C# DataGridView from Windows Forms](https
 
 ## Installation
 
-Download Raw files and import all for you code.
+Download Raw files and import all for you code. Import too te folder from [CTkMaskedEntry](https://github.com/RickWalkerOne/CTkMaskedEntry) and paste in the root folder.
 
 ## Usage
 
